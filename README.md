@@ -11,11 +11,9 @@ To get started with HERMES, follow these simple steps:
 
 2. **Install Vim**: Install Vim by using the following command:  
    ```bash install_vim.sh```
-   
+ 
 3. **Configure Vim**: Configure Vim by using the following command:  
    ```bash configure_vim.sh``` 
-
-4. **Customize**: Feel free to customize HERMES to suit your preferences. Add or remove plugins, tweak settings in the `.vimrc` file, and explore additional Vim resources to further optimize your workflow.
 
 ## Features
 
@@ -30,3 +28,7 @@ Contributions to HERMES are welcome! If you have suggestions for improvements, n
 ## Acknowledgments
 
 HERMES stands on the shoulders of giants, leveraging the incredible work of the Vim community and the developers behind the various plugins included in this repository. A big thank you to everyone who has contributed to making Vim the powerful tool it is today.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
