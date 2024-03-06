@@ -31,4 +31,4 @@ HERMES stands on the shoulders of giants, leveraging the incredible work of the 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./administration/LICENSE.md) file for details.
